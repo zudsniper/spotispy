@@ -1,0 +1,367 @@
+[
+  {
+    "timestamp": 1701389842595,
+    "user": {
+      "uri": "spotify:user:danielle.cantor.cox",
+      "name": "Dani Cantor-Cox",
+      "imageUrl": "https://i.scdn.co/image/ab67757000003b82ef8198eb52a330ee088bfbe6"
+    },
+    "track": {
+      "uri": "spotify:track:0Fv5N0cHBsl4bzCbollCAS",
+      "name": "Moves",
+      "imageUrl": "http://i.scdn.co/image/ab67616d0000b273e572359074e5da958a922987",
+      "album": {
+        "uri": "spotify:album:0XAIjjN5qxViVS0Y5fYkar",
+        "name": "I Decided."
+      },
+      "artist": {
+        "uri": "spotify:artist:0c173mlxpT3dSFRgMO8XPh",
+        "name": "Big Sean"
+      },
+      "context": {
+        "uri": "spotify:playlist:0NDqZu8S3OPV8VYxxUjkj9",
+        "name": "Deli jams🥪",
+        "index": 0
+      }
+    }
+  },
+  {
+    "timestamp": 1701415538355,
+    "user": {
+      "uri": "spotify:user:ahillbillie",
+      "name": "ahillbillie",
+      "imageUrl": "https://i.scdn.co/image/ab67757000003b82f2c9ccebf30285726df303b7"
+    },
+    "track": {
+      "uri": "spotify:track:3EYOJ48Et32uATr9ZmLnAo",
+      "name": "Roxanne",
+      "imageUrl": "http://i.scdn.co/image/ab67616d0000b2732043dd3544a339547d04b436",
+      "album": {
+        "uri": "spotify:album:1H9g6j4Wwj6wh6p8YHVtkf",
+        "name": "Outlandos D'Amour (Remastered 2003)"
+      },
+      "artist": {
+        "uri": "spotify:artist:5NGO30tJxFlKixkPSgXcFE",
+        "name": "The Police"
+      },
+      "context": {
+        "uri": "spotify:playlist:37i9dQZF1E8HNviknD5SRP",
+        "name": "Dumb Radio",
+        "index": 0
+      }
+    }
+  },
+  {
+    "timestamp": 1701523083920,
+    "user": {
+      "uri": "spotify:user:zz7euipyygb8fxnmzkska0z8q",
+      "name": "io",
+      "imageUrl": "https://i.scdn.co/image/ab67757000003b824000a14342235601023f53a2"
+    },
+    "track": {
+      "uri": "spotify:track:10AXshibljtYZrGyl5zQnM",
+      "name": "Montreal",
+      "imageUrl": "http://i.scdn.co/image/ab67616d0000b273e94b330bfe534a195fc669be",
+      "album": {
+        "uri": "spotify:album:301f9shY0LYsNP0g0i4ih1",
+        "name": "Spark and Echo"
+      },
+      "artist": {
+        "uri": "spotify:artist:3USL7r0FYOWUiTPQGz3HpP",
+        "name": "Mark Lettieri"
+      },
+      "context": {
+        "uri": "spotify:album:301f9shY0LYsNP0g0i4ih1",
+        "name": "Spark and Echo",
+        "index": 0
+      }
+    }
+  },
+  {
+    "timestamp": 1701549514785,
+    "user": {
+      "uri": "spotify:user:kjzarzana24",
+      "name": "kjzarzana",
+      "imageUrl": "https://i.scdn.co/image/ab67757000003b822900c6a25ef44a2bd5fb6580"
+    },
+    "track": {
+      "uri": "spotify:track:5kQUAOFQJjtr5APpoAx2RX",
+      "name": "Cold Reactor",
+      "imageUrl": "http://i.scdn.co/image/ab67616d0000b2738fb1c00261377bbd7f83b1c0",
+      "album": {
+        "uri": "spotify:album:2v4O0wtWNwhoaUQbhRfnE4",
+        "name": "The Mad Stone"
+      },
+      "artist": {
+        "uri": "spotify:artist:1HOeqtP7tHkKNJNLzQ2tnr",
+        "name": "Everything Everything"
+      },
+      "context": {
+        "uri": "spotify:album:2v4O0wtWNwhoaUQbhRfnE4",
+        "name": "The Mad Stone",
+        "index": 0
+      }
+    }
+  },
+  {
+    "timestamp": 1701557463902,
+    "user": {
+      "uri": "spotify:user:aryadjedi",
+      "name": "ARYA",
+      "imageUrl": "https://i.scdn.co/image/ab67757000003b82c81c39e62760a7433ebb020a"
+    },
+    "track": {
+      "uri": "spotify:track:7GFxCDuquGXbNdpMsbGtW2",
+      "name": "2000",
+      "imageUrl": "http://i.scdn.co/image/ab67616d0000b273974522c6a9b4a31d1be561d2",
+      "album": {
+        "uri": "spotify:album:44APgI5NFKuERnSANLQV1w",
+        "name": "2000"
+      },
+      "artist": {
+        "uri": "spotify:artist:5Q0sv5SeMZln6szEW49dHL",
+        "name": "vowl."
+      },
+      "context": {
+        "uri": "spotify:album:44APgI5NFKuERnSANLQV1w",
+        "name": "2000",
+        "index": 0
+      }
+    }
+  },
+  {
+    "timestamp": 1701563811216,
+    "user": {
+      "uri": "spotify:user:22qz2cijkzoovk63cl66kkify",
+      "name": "Peter Samokhine",
+      "imageUrl": "https://scontent-iad3-1.xx.fbcdn.net/v/t1.30497-1/84628273_176159830277856_972693363922829312_n.jpg?stp=c15.0.50.50a_cp0_dst-jpg_p50x50&_nc_cat=1&ccb=1-7&_nc_sid=81
+      0bd0&_nc_ohc=sduXzqEqnYcAX_x1xlc&_nc_ht=scontent-iad3-1.xx&edm=AP4hL3IEAAAA&oh=00_AfAdy577Ehs42vIRn8bOTv-QlIJ70wUwgEu5yRSs2-XGpQ&oe=65932BD9"
+    },
+    "track": {
+      "uri": "spotify:track:4EkOA5QmlVDoq5JtSQMRxc",
+      "name": "Giving My All 2 U",
+      "imageUrl": "http://i.scdn.co/image/ab67616d0000b2736eb0a5dae2811e6673847c37",
+      "album": {
+        "uri": "spotify:album:7IjOfbF7Lb1L6i7wlHbE2Y",
+        "name": "Giving My All 2 U"
+      },
+      "artist": {
+        "uri": "spotify:artist:2P64joyhsQaekrBR6LZRQ3",
+        "name": "WEB"
+      },
+      "context": {
+        "uri": "spotify:playlist:6rSvcVbIao2NvqpCX1WGmh",
+        "name": "Galaxy",
+        "index": 0
+      }
+    }
+  },
+  {
+    "timestamp": 1701565136777,
+    "user": {
+      "uri": "spotify:user:3165yfajeh36fjj2bavcxzzzanfq",
+      "name": "Aurelion",
+      "imageUrl": "https://i.scdn.co/image/ab67757000003b823e35e2ee410fd1abda4ec022"
+    },
+    "track": {
+      "uri": "spotify:track:4TIqzdAssasqx3DAe6cG9J",
+      "name": "Ramen & OJ",
+      "imageUrl": "http://i.scdn.co/image/ab67616d0000b2734fd8e64469ff9dd01faf50fe",
+      "album": {
+        "uri": "spotify:album:48ahZJLcagb8VTgRAuv6WQ",
+        "name": "Ramen & OJ"
+      },
+      "artist": {
+        "uri": "spotify:artist:6C1ohJrd5VydigQtaGy5Wa",
+        "name": "Joyner Lucas"
+      },
+      "context": {
+        "uri": "spotify:album:48ahZJLcagb8VTgRAuv6WQ",
+        "name": "Ramen & OJ",
+        "index": 0
+      }
+    }
+  },
+  {
+    "timestamp": 1701566821514,
+    "user": {
+      "uri": "spotify:user:carmeneff",
+      "name": "carmeneff",
+      "imageUrl": "https://i.scdn.co/image/ab67757000003b8228c2de4ee64969e8aa558b44"
+    },
+    "track": {
+      "uri": "spotify:track:4SdubskbLiOkpsIjRVVsya",
+      "name": "Fetch The Bolt Cutters",
+      "imageUrl": "http://i.scdn.co/image/ab67616d0000b273841292c1316c4bf85447bcd9",
+      "album": {
+        "uri": "spotify:album:0fO1KemWL2uCCQmM22iKlj",
+        "name": "Fetch The Bolt Cutters"
+      },
+      "artist": {
+        "uri": "spotify:artist:3g2kUQ6tHLLbmkV7T4GPtL",
+        "name": "Fiona Apple"
+      },
+      "context": {
+        "uri": "spotify:playlist:37i9dQZF1Fa1IIVtEpGUcU",
+        "name": "Your Top Songs 2023",
+        "index": 0
+      }
+    }
+  },
+  {
+    "timestamp": 1701569208213,
+    "user": {
+      "uri": "spotify:user:willbangle",
+      "name": "willem",
+      "imageUrl": "https://i.scdn.co/image/ab67757000003b827f2a3bdbe2e6e1c5f5b6859d"
+    },
+    "track": {
+      "uri": "spotify:track:6GtX0jaNL8IjVQfrDBx81z",
+      "name": "Bullet With Butterfly Wings - Remastered 2012",
+      "imageUrl": "http://i.scdn.co/image/ab67616d0000b273431ac6e6f393acf475730ec6",
+      "album": {
+        "uri": "spotify:album:55RhFRyQFihIyGf61MgcfV",
+        "name": "Mellon Collie And The Infinite Sadness (Deluxe Edition)"
+      },
+      "artist": {
+        "uri": "spotify:artist:40Yq4vzPs9VNUrIBG5Jr2i",
+        "name": "The Smashing Pumpkins"
+      },
+      "context": {
+        "uri": "spotify:album:2gToC0XAblE9h3UZD6aAaQ",
+        "name": "Third Eye Blind",
+        "index": 0
+      }
+    }
+  },
+  {
+    "timestamp": 1701570740288,
+    "user": {
+      "uri": "spotify:user:benykthekid",
+      "name": "benykthekid",
+      "imageUrl": "https://i.scdn.co/image/ab67757000003b82d9d44b8c7d998705d0f72a38"
+    },
+    "track": {
+      "uri": "spotify:track:72WYftHUPCgf7UlmAZSIMQ",
+      "name": "Inflammation",
+      "imageUrl": "http://i.scdn.co/image/ab67616d0000b273f127c454386fdc276a596cb9",
+      "album": {
+        "uri": "spotify:album:1pAMEPTy30oYIZ9gnWiqqM",
+        "name": "imstillhere"
+      },
+      "artist": {
+        "uri": "spotify:artist:60UeFTylQQsABCEroZyPia",
+        "name": "4ria"
+      },
+      "context": {
+        "uri": "spotify:album:1pAMEPTy30oYIZ9gnWiqqM",
+        "name": "imstillhere",
+        "index": 0
+      }
+    }
+  },
+  {
+    "timestamp": 1701573431915,
+    "user": {
+      "uri": "spotify:user:steele1229",
+      "name": "Sam",
+      "imageUrl": "https://i.scdn.co/image/ab67757000003b82c3a25343b7668bff8c92ab48"
+    },
+    "track": {
+      "uri": "spotify:track:7cXYdAu0RheaaUlhHG3zUM",
+      "name": "Sand Angel",
+      "imageUrl": "http://i.scdn.co/image/ab67616d0000b2738f0d9b8ababc0cf57fdda8b7",
+      "album": {
+        "uri": "spotify:album:0eVcVsr64cQbiGAOVefybc",
+        "name": "Doomin' Sun"
+      },
+      "artist": {
+        "uri": "spotify:artist:7B1OPA8Ttxfv3XBDCkw24E",
+        "name": "Bachelor"
+      },
+      "context": {
+        "uri": "spotify:playlist:6foNlQL7CozPMsNkpa8MvP",
+        "name": "USick",
+        "index": 0
+      }
+    }
+  },
+  {
+    "timestamp": 1701575061981,
+    "user": {
+      "uri": "spotify:user:26zdt8tyr74v9mbihb5lu34qj",
+      "name": "baldo",
+      "imageUrl": "https://i.scdn.co/image/ab67757000003b82c62457005dd595c132653a8b"
+    },
+    "track": {
+      "uri": "spotify:track:10nyNJ6zNy2YVYLrcwLccB",
+      "name": "No Surprises",
+      "imageUrl": "http://i.scdn.co/image/ab67616d0000b273c8b444df094279e70d0ed856",
+      "album": {
+        "uri": "spotify:album:6dVIqQ8qmQ5GBnJ9shOYGE",
+        "name": "OK Computer"
+      },
+      "artist": {
+        "uri": "spotify:artist:4Z8W4fKeB5YxbusRsdQVPb",
+        "name": "Radiohead"
+      },
+      "context": {
+        "uri": "spotify:album:6dVIqQ8qmQ5GBnJ9shOYGE",
+        "name": "OK Computer",
+        "index": 0
+      }
+    }
+  },
+  {
+    "timestamp": 1701577625360,
+    "user": {
+      "uri": "spotify:user:diogotr7",
+      "name": "diogotr7",
+      "imageUrl": "https://i.scdn.co/image/ab67757000003b82c9a81b6a2adcfdda51957df8"
+    },
+    "track": {
+      "uri": "spotify:track:2g1KggY9PKvsoEAOaiz4xx",
+      "name": "Daisy",
+      "imageUrl": "http://i.scdn.co/image/ab67616d0000b27311b63834a1a557cc77403458",
+      "album": {
+        "uri": "spotify:album:438ToDoVaJH5aTIXXrlDyI",
+        "name": "DEMIDEVIL"
+      },
+      "artist": {
+        "uri": "spotify:artist:3PyJHH2wyfQK3WZrk9rpmP",
+        "name": "Ashnikko"
+      },
+      "context": {
+        "uri": "spotify:playlist:2uxAMzUtzequ868DcIQqtS",
+        "name": "octopus",
+        "index": 0
+      }
+    }
+  },
+  {
+    "timestamp": 1701577634430,
+    "user": {
+      "uri": "spotify:user:saradewitt8",
+      "name": "sara",
+      "imageUrl": "https://i.scdn.co/image/ab67757000003b82f431a8f39d144b1bf0e94a33"
+    },
+    "track": {
+      "uri": "spotify:track:2qpX5WY7A7uLLLQfFpvRDK",
+      "name": "DR. WHOEVER",
+      "imageUrl": "http://i.scdn.co/image/ab67616d0000b273a52fb68f00620e45ed7467c5",
+      "album": {
+        "uri": "spotify:album:4mwO9qIVmngSe7yR5Ios0I",
+        "name": "ONEPOINTFIVE"
+      },
+      "artist": {
+        "uri": "spotify:artist:3Gm5F95VdRxW3mqCn8RPBJ",
+        "name": "Aminé"
+      },
+      "context": {
+        "uri": "spotify:album:4mwO9qIVmngSe7yR5Ios0I",
+        "name": "ONEPOINTFIVE",
+        "index": 0
+      }
+    }
+  }
+]

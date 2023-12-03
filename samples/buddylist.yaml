@@ -1,0 +1,30 @@
+{
+   friends: [
+     {
+       timestamp: 1701435545949,
+       user: {
+         uri: "spotify:user:11152598506",
+         name: "Marta Trindade",
+         imageUrl: "https://i.scdn.co/image/ab67757000003b8245ff5443bcfd605e99a816cd",
+       },
+       track: {
+         uri: "spotify:track:4RyK6N4IQ85xxLgguQAFH5",
+         name: "Blue Jeans",
+         imageUrl: "http://i.scdn.co/image/ab67616d0000b273ebc8cfac8b586bc475b04918",
+         album: {
+           uri: "spotify:album:5VoeRuTrGhTbKelUfwymwu",
+           name: "Born To Die - The Paradise Edition",
+         },
+         artist: {
+           uri: "spotify:artist:00FQb4jTyendYWaN8pK0wa",
+           name: "Lana Del Rey",
+         },
+         context: {
+           uri: "spotify:album:5VoeRuTrGhTbKelUfwymwu",
+           name: "Born To Die - The Paradise Edition",
+           index: 0,
+         },
+       },
+     },
+   ],
+ }
